@@ -1,0 +1,44 @@
+body {
+  font: "Fira Sans", sans-serif;
+  
+}
+a{
+  text-decoration: none;
+}
+mark {
+  background-color: white;
+  font-weight: bold ;
+
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  
+
+}
+h3{
+  
+  font: 1.2em "Fira Sans", sans-serif;
+}
+
+.contact_me:hover{
+  background-color: gold;
+}
+.tensorchip:hover{
+  background-color:gold;
+}
+
+li{
+  margin-top: 5px;
+}
+
+.github-link{
+  margin-top: 1px;
+  margin-bottom: 0px;
+}
